@@ -1,6 +1,6 @@
-package algorithm.common.maxsubarray;
+package algorithms.common.maxsubarray;
 
-import algorithm.common.maxsubarray.DivideAndConquerMaxSubarray.ArrInfo;
+import algorithms.common.maxsubarray.DivideAndConquerMaxSubarray.ArrInfo;
 import java.util.Arrays;
 
 /**

@@ -1,4 +1,4 @@
-package algorithm.common.maxsubarray;
+package algorithms.common.maxsubarray;
 
 import java.util.Arrays;
 

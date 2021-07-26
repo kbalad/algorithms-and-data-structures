@@ -1,8 +1,8 @@
-package algorithm.common.maxsubarray;
+package algorithms.common.maxsubarray;
 
 import java.util.Arrays;
 
-import static algorithm.common.maxsubarray.DivideAndConquerMaxSubarray.ArrInfo;
+import static algorithms.common.maxsubarray.DivideAndConquerMaxSubarray.ArrInfo;
 
 /**
  * Brute force: Complexity - O(n^2)

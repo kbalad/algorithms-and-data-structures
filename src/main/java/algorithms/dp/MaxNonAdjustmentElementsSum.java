@@ -1,10 +1,6 @@
-package algorithm.dp;
+package algorithms.dp;
 
 public class MaxNonAdjustmentElementsSum {
-
-    public static void main(String[] args) {
-
-    }
 
     static int maxSubsetSum(int[] arr) {
         int n = arr.length;

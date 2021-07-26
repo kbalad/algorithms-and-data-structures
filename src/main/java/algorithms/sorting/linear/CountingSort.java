@@ -1,4 +1,4 @@
-package algorithm.sorting.linear;
+package algorithms.sorting.linear;
 
 /**
  * Linear-time sorting supported by backing counting storage.

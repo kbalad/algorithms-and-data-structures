@@ -19,8 +19,8 @@ public class Heap {
         this.size = a.length;
     }
 
-    public static datastructures.Heap buildMaxHeap(int[] a) {
-        datastructures.Heap h = new datastructures.Heap(a);
+    public static Heap buildMaxHeap(int[] a) {
+        Heap h = new Heap(a);
         for (int i = a.length / 2; i >= 0; i--) {
             h.maxHeapify(i);
         }
@@ -44,7 +44,7 @@ public class Heap {
     }
 
     public static void heapsort(int[] a) {
-        datastructures.Heap h = datastructures.Heap.buildMaxHeap(a);
+        Heap h = Heap.buildMaxHeap(a);
         for (int i = h.size - 1; i >= 0; i--) {
             h.swap(i, 0);
             h.size--;

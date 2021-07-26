@@ -1,4 +1,4 @@
-package algorithm.sorting.linear;
+package algorithms.sorting.linear;
 
 import java.util.Arrays;
 
@@ -11,7 +11,7 @@ public class RadixSort {
     public static void main(String[] args) {
         int[] a = new int[]{1, 9, 2, 5, 8, 3, 7, 4, 6, 5};
         int[] b = sort(a);
-        System.out.println(java.util.Arrays.toString(b));
+        System.out.println(Arrays.toString(b));
     }
 
     /**
