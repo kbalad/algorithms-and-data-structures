@@ -1,7 +1,6 @@
 package hackerrank;
 
 import com.google.common.primitives.Ints;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 

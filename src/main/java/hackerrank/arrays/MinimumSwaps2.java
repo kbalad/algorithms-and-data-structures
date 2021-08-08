@@ -1,8 +1,8 @@
-package hackerrank.arrays.minimum_swaps_2;
+package hackerrank.arrays;
 
-public class MinimumSwaps {
+public class MinimumSwaps2 {
 
-    public MinimumSwaps(int[] input) {
+    public MinimumSwaps2(int[] input) {
         initElements(input);
         initPos();
     }

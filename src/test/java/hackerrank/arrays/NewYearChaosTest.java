@@ -1,7 +1,7 @@
-package hackerrank.arrays.new_year_chaos;
+package hackerrank.arrays;
 
 import hackerrank.Utils;
-import hackerrank.arrays.new_year_chaos.NewYearChaos.ImpossibleException;
+import hackerrank.arrays.NewYearChaos.ImpossibleException;
 import java.util.Arrays;
 import java.util.List;
 import lombok.SneakyThrows;
@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 import static org.testng.Assert.*;
 
-public class FunctionalTests {
+public class NewYearChaosTest {
 
     @Test
     @SneakyThrows

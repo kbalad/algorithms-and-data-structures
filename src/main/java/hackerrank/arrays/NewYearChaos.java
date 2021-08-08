@@ -1,4 +1,4 @@
-package hackerrank.arrays.new_year_chaos;
+package hackerrank.arrays;
 
 import java.util.List;
 
