@@ -1,4 +1,4 @@
-package nio;
+package common.nio;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -2,6 +2,7 @@ package nio;
 
 import static org.testng.Assert.*;
 
+import common.nio.FastReader;
 import lombok.SneakyThrows;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
